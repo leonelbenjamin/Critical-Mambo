@@ -1,0 +1,60 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+
+#banner {
+
+
+    background-color: #212529;
+
+}
+
+
+
+#navbar {
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+
+}
+
+#index {
+    background-color: #212529;
+
+}
+
+footer {
+    background-image: url(../Imagenes/6-\ FOOTER/1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #212529f8;
+    height: 150px;
+}
+
+.text-white {
+    text-align: right;
+}
+
+#precios {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#Talles,
+precios {
+    text-align: center;
+}
+
+#iconos {
+    text-align: right;
+}
+
+#cuadro {
+    border: solid #000000 8px;
+    margin-top: 10px;
+    padding: 0%;
+    margin: 2rem;
+    background-color: aliceblue;
+}
